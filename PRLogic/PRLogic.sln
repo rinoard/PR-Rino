@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PRLogic01", "PRLogic01\PRLogic01.csproj", "{0E97A8E0-7BF9-4E99-8390-5CE1E2921A86}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0E97A8E0-7BF9-4E99-8390-5CE1E2921A86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E97A8E0-7BF9-4E99-8390-5CE1E2921A86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E97A8E0-7BF9-4E99-8390-5CE1E2921A86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E97A8E0-7BF9-4E99-8390-5CE1E2921A86}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C5AC2061-CDF4-4389-9EA9-B53147162C9B}
+	EndGlobalSection
+EndGlobal
